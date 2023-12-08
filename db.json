@@ -2,18 +2,6 @@
     "cosmetics": [
       {
         "id": 1,
-        "name": "Успокаивающая пенка для умывания для проблемной кожи",
-        "fullName": "Dr.Ceuracle 5α Control Clearing Cleansing Foam",
-        "description": "Успокаивающая пенка для умывания для проблемной кожи направлена на глубокое очищение кожи от загрязнений, а также на противовоспалительное действие.",
-        "method": "Вспенить необходимое количество средства в ладонях или с помощью аксессуаров, распределить пену мягкими массирующими движениями на лице, затем смыть водой комфортной температуры.",
-        "category": 1,
-        "price": 1800,
-        "count": 1,
-        "rating": 13,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/86e/95ojwv408q8wc0jaxy22lpjibzt0q1o1/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/pikcha-_-2023_06_28T105926.607.webp" 
-      },
-      {
-        "id": 2,
         "name": "Пенка для умывания с пробиотиками",
         "fullName": "Dr.Ceuracle Pro Balance Creamy Deep Cleansing Foam",
         "description": "Пенка для умывания с пробиотиками направлена на деликатное очищение кожи и сохранение здорового микробиома.",
@@ -25,11 +13,11 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/4dc/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/4dcd6959d59ac124b128558c084411b2.webp"
       },
       {
-        "id": 3,
+        "id": 2,
         "name": "Набор по уходу за кожей лица с экстрактом чая комбуча",
         "fullName": "Dr.Ceuracle Vegan Kombucha Special Set",
         "description": "Набор для кожи лица с экстрактом чая комбуча позволит насладиться комплексом смягчающего ухода.",
-        "method": "Эссенция: Использовать продукт после этапа тонизирования. Осторожно встряхнуть флакон и нанести продукт на кожу лица с помощью ватного диска или подушечками пальцев для лучшего впитывания. Гель-крем: Нанести необходимое количество средства на очищенную и тонизированную кожу лица на последнем этапе ухода, мягко распределить до полного впитывания. Бальзам: Нанесите бальзам на губы. При необходимости повторите нанесение бальзама.",
+        "method": "Эссенция: Нанести продукт на кожу лица. Гель-крем: Нанести необходимое количество средства на очищенную и тонизированную кожу лица на последнем этапе ухода. Бальзам: Нанесите бальзам на губы.",
         "category": 4,
         "price": 8942,
         "count": 1,
@@ -37,7 +25,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/499/ym2xve2vsy5sjc75ny2ud5p4ve23g33s/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/pikcha-_-2023_05_26T143818.719.webp"
       },
       {
-        "id": 4,
+        "id": 3,
         "name": "Очищающая глиняная маска с матчей",
         "fullName": "Dr.Ceuracle Jeju Matcha Clay Pack",
         "description": "Очищающая глиняная маска с матчей направлена на матирование кожи и успокаивающий эффект.",
@@ -49,31 +37,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/794/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/794112f00c016347b20262b8dccf437d.webp"
       },
       {
-        "id": 5,
-        "name": "Противовоспалительная тканевая маска с чайным деревом",
-        "fullName": "Dr.Ceuracle Tea Tree Purifine Soothing Mask",
-        "description": "Противовоспалительная тканевая маска с чайным деревом направлена на успокаивающее действие и борьбу с высыпаниями.",
-        "method": "Извлечь тканевую основу из упаковки, распределить равномерно на коже лица и оставить для воздействия на 15-20 минут. Затем снять тканевую основу и распределить остатки эссенции до полного впитывания, закрепить уход кремом.",
-        "category": 3,
-        "price": 315,
-        "count": 1,
-        "rating": 14,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/d32/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/d321f550ae96b15cefbfa5b1ec4cce78.webp"
-      },
-      {
-        "id": 6,
-        "name": "Увлажняющий крем с пробиотиками",
-        "fullName": "Dr.Ceuracle Pro Balance Biotics Moisturizer",
-        "description": "Увлажняющий крем с пробиотиками направлен на восстановление запаса влаги, устранение сухости и шелушений, а также поддержание здорового микробиома кожи и выравнивание тона.",
-        "method": "Нанести необходимое количество средства на очищенную и тонизированную кожу лица на последнем этапе ухода, мягко распределить до полного впитывания.",
-        "category": 2,
-        "price": 1538,
-        "count": 1,
-        "rating": 15,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/c19/nru96htvch3b6hkujuftnz3beo9qfyo6/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/pikcha-_-2023_06_28T105407.499.webp"
-      },
-      {
-        "id": 7,
+        "id": 4,
         "name": "Увлажняющая ампула с гиалуроновой кислотой",
         "fullName": "Dr.Ceuracle Pro Balance Biotics Moisturizer",
         "description": "Увлажняющая сыворотка с гиалуроновой кислотой направлена на глубокое увлажнение и смягчение кожи.",
@@ -85,7 +49,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/02d/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/02d5b5200155bd5c72925f27cb687abf.webp"
       },
       {
-        "id": 8,
+        "id": 5,
         "name": "Гидрогелевые патчи увлажняющие",
         "fullName": "Dr.Ceuracle Hyal Reyouth Hydrogel Eye Mask",
         "description": "Увлажняющие гидрогелевые патчи для век с гиалуроновой кислотой направлены на активное увлажнение, устранение сухости и отечности.",
@@ -97,11 +61,11 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/ac9/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/ac9f07227dabf8b385e19457937e8db3.webp"
       },
       {
-        "id": 9,
+        "id": 6,
         "name": "Успокаивающий набор с экстрактом чайного дерева",
         "fullName": "Dr.Ceuracle Tea Tree Purifine Duo Set",
         "description": "Успокаивающий набор по уходу за кожей лица оказывает мощное противовоспалительное действие.",
-        "method": "Пенка: Вспенить необходимое количество средства в ладонях или с помощью аксессуаров, распределить пену мягкими массирующими движениями на лице, затем смыть водой комфортной температуры. Тонер: В качестве первого этапа ухода нанести необходимое количество средства на очищенную кожу лица с помощью хлопкового диска или ладоней, распределить до полного впитывания, затем перейти к остальным этапам ухода.",
+        "method": "Пенка: Вспенить, распределить пену, затем смыть водой комфортной температуры. Тонер: В качестве первого этапа ухода нанести необходимое количество средства на очищенную кожу лица, затем перейти к остальным этапам ухода.",
         "category": 4,
         "price": 6722,
         "count": 1,
@@ -109,7 +73,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/904/dtwtaanlaa0jsn2qu7pk2bj2n3m3bblo/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/pikcha-_-2023_05_26T135735.928.webp"
       },
       {
-        "id": 10,
+        "id": 7,
         "name": "МИНИ Сыворотка-ампула с прополисом",
         "fullName": "Dr.Ceuracle Royal Vita Propolis Ampoule",
         "description": "Сыворотка-ампула с прополисом направлена на глубокое питание и восстановление кожи.",
@@ -121,10 +85,10 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/ac8/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/ac89d14b9d877ec74520b5fafb10359e.webp"
       },
       {
-        "id": 11,
+        "id": 8,
         "name": "Веганский гель-крем с чаем комбуча",
         "fullName": "Dr.Ceuracle Vegan Kombucha Tea Gel Cream",
-        "description": "Веганский гель-крем с чаем комбуча сертифицирован агентством «Korea Agency of Vegan Certification and Services» как полностью cruelty-free продукт. Все ингредиенты - веганские, продукт не тестируется на животных, а экологически чистая упаковка перерабатывается полностью, без какого-либо вреда для окружающей среды.",
+        "description": "Веганский гель-крем с чаем комбуча",
         "method": "Нанести необходимое количество средства на очищенную и тонизированную кожу лица на последнем этапе ухода, мягко распределить до полного впитывания.",
         "category": 3,
         "price": 3210,
@@ -133,7 +97,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/d87/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/zz7xgpioffv8gyufidx29qv01ej11blm.webp"
       },
       {
-        "id": 12,
+        "id": 9,
         "name": "Крем для лица с прополисом",
         "fullName": "Dr.Ceuracle Vegan Kombucha Tea Gel Cream",
         "description": "Крем для лица с прополисом направлен на глубокое питание и восстановление кожи, а также защиту от внешнего воздействия.",
@@ -145,43 +109,7 @@
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/107/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/10796191b2db19f6df6be95564e45b31.webp"
       },
       {
-        "id": 13,
-        "name": "Веганское кремовое мыло для умывания",
-        "fullName": "Dr.Ceuracle Vegan Kombucha Tea Creamy Wash Bar",
-        "description": "Веганское кремовое мыло с низким pH на основе экстракта чайного гриба для деликатного очищения и увлажнения кожи.",
-        "method": "Разотрите в ладонях и вспеньте водой до образования пены, нанесите на кожу массирующими движениями, смойте теплой водой.",
-        "category": 1,
-        "price": 1530,
-        "count": 1,
-        "rating": 12,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/c9c/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/c9c40971d30cbcb678c8839cd7ab18ce.webp"
-      },
-      {
-        "id": 14,
-        "name": "Набор миниатюр",
-        "fullName": "Dr.Ceuracle Must-Have Mini Kit",
-        "description": "Полноценный уход от Dr.Ceuracle в миниатюрах, отлично подойдёт для тех у кого мобильный образ жизни. Набор даёт возможность познакомиться с брендом и сразу с несколькими его линейками перед тем, как полноценно вводить средства в свой базовый уход.",
-        "method": "Разотрите в ладонях и вспеньте водой до образования пены, нанесите на кожу массирующими движениями, смойте теплой водой.",
-        "category": 4,
-        "price": 2045,
-        "count": 1,
-        "rating": 7,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/3c8/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/a6g4zpji75zrpreu5lcethwja0ijce5g.webp"
-      },
-      {
-        "id": 15,
-        "name": "Увлажняющий тонер",
-        "fullName": "Dr.Ceuracle Hyal Reyouth Toner",
-        "description": "Увлажняющий тонер с гиалуроновой кислотой направлен на восстановление запаса влаги в коже.",
-        "method": "В качестве первого этапа ухода нанести необходимое количество средства на очищенную кожу лица с помощью хлопкового диска или ладоней, распределить до полного впитывания, затем перейти к остальным этапам ухода.",
-        "category": 2,
-        "price": 1539,
-        "count": 1,
-        "rating": 11,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/51c/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/51c0775fbd3ccb32ee900b28147fb8a4.webp"
-      },
-      {
-        "id": 16,
+        "id": 10,
         "name": "Утренняя энзимная пудра с пробиотиками",
         "fullName": "Dr.Ceuracle Pro Balance Morning Enzyme Wash",
         "description": "Утренняя энзимная пудра с пробиотиками направлена на деликатное отшелушивание и глубокое очищение кожи.",
@@ -191,18 +119,6 @@
         "count": 1,
         "rating": 9,
         "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/382/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/38255ce8a7bfe3e7fed8ae74dacdc311.webp"
-      },
-      {
-        "id": 17,
-        "name": "Мыло для глубокого очищения кожи",
-        "fullName": "Dr.Ceuracle AC Cure Solution Medicare Soap",
-        "description": "Успокаивающее мыло направлено на глубокое очищение кожи и противовоспалительное действие.",
-        "method": "Вспеньте в ладонях мыло с водой, нанесите круговыми массажными движениями на кожу, активнее помассируйте в Т-зоне и смойте теплой водой.",
-        "category": 1,
-        "price": 880,
-        "count": 1,
-        "rating": 10,
-        "image": "https://www.heybabescosmetics.com/upload/resize_cache/webp/iblock/bec/900_900_1a1fde8d5e7dcaa11be442336c9d37f5e/bec2536fdb5c9b753b7c7d4c92c105a0.webp"
       }
     ]
 }
